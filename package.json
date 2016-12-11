@@ -1,0 +1,23 @@
+{
+  "name": "clementinejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsimoLoveGym/clementineJS.git"
+  },
+  "author": "Joey Xia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AsimoLoveGym/clementineJS/issues"
+  },
+  "homepage": "https://github.com/AsimoLoveGym/clementineJS#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.15"
+  }
+}
